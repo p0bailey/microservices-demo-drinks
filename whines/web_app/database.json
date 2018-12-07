@@ -1,0 +1,38 @@
+[
+  {
+    "id":1,
+    "winery":"Castello Banfi",
+    "name":"Brunello di Montalcino Poggio All'Oro",
+    "colour":"red",
+    "vintage":"1995",
+    "grape_varieties": "100% sangiovese",
+    "country":"italy",
+    "description":"Estate-bottled in limited quantities only in exceptional years from our finest",
+    "food_pairing": "Superb accompaniment to red meats, game and aged cheeses.",
+    "web": "https://castellobanfi.com/en/banfi-wines/castello-banfi/montalcino-red-wines/p@poggio-all-oro"
+  },
+  {
+    "id":2,
+    "winery":"Badia a Coltibuono",
+    "name":"Sangioveto Toscana",
+    "colour":"red",
+    "vintage":"2013",
+    "grape_varieties": "100% sangiovese",
+    "country":"italy",
+    "description":"Dark ruby colour with shades of purple. Very intense nose with bouquet of balsamic, flowery violet, iris, spices, red fruits, vanilla and cloves.",
+    "food_pairing": "Ribollita (Tuscan bread, bean, and vegetable soup), pheasant, wild game, and stews. Aged cheeses and chocolate",
+    "web": "https://www.coltibuono.com/en/product/sangioveto-toscana-i-g-t-2013/"
+  },
+  {
+    "id":3,
+    "winery":"Stina",
+    "name":"Stina Plavac Mali Majstor",
+    "colour":"red",
+    "vintage":"2015",
+    "grape_varieties": "Plavac Mali",
+    "country":"croatia",
+    "description":"Intense, clean and attractive aromas are representing the best of the variety’s qualities. The fruitiness of plums is mixed with mineral tones reminiscent of seaweed, herbal notes of Mediterranean plants.",
+    "food_pairing": "Hearty soups, hearty meat stews, pork tenderloin, steaks, cheeses.",
+    "web": "http://www.stina-vino.hr/hr/proizvod-detalji/stina-2015-plavac-mali-majstor-0-75/14"
+  }
+]

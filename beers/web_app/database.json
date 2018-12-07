@@ -1,0 +1,32 @@
+[
+  {
+    "id":1,
+    "brewery":"Brewdog",
+    "name":"tokyo",
+    "type":"Imperial Stout",
+    "abv":"16.5",
+    "country":"uk",
+    "description":"This imperial stout is brewed with copious amounts of speciality malts, jasmine and cranberries.",
+    "food_pairing": ""
+  },
+{
+  "id":2,
+  "brewery":"Zmajska Pivovara",
+  "name":"RIS Barrel Aged",
+  "type":"Russian Imperial Stout",
+  "abv":"10",
+  "country":"croatia",
+  "description":"Beer with a hefty amount of alcohol and rich chocolate and coffee aromas from dark malts. To enhance the overall impression, this special release was aged in whiskey barrels for over six months",
+  "food_pairing": ""
+},
+{
+  "id":3,
+  "brewery":"Nova Rund",
+  "name":"c4",
+  "type":"American IPA",
+  "abv":"6.1",
+  "country":"croatia",
+  "description":"If APA was hoppy, then it's only natural to hop up IPA even more, and make it EXPLOSIVE!",
+  "food_pairing": ""
+}
+]
